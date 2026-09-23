@@ -10,3 +10,7 @@ beautifulsoup4
 lxml
 ipykernel
 langchain_text_splitters
+langchain-experimental
+langchain_ollama
+langchain-ollama
+langchain_chroma
